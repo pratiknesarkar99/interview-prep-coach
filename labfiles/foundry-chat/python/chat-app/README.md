@@ -2,9 +2,9 @@
 
 An AI-powered interview coach built on Azure AI Foundry and the OpenAI Responses API. Paste a job description and your resume, and the app conducts a realistic 6-turn mock interview tailored to the role, then generates a structured debrief with specific feedback on your answers.
 
-![Setup Panel](screenshots/setup.png)
-![Interview Panel](screenshots/interview.png)
-![Debrief Panel](screenshots/debrief.png)
+<img width="1470" height="956" alt="Screenshot 2026-06-09 at 10 40 21 PM" src="https://github.com/user-attachments/assets/b11632e2-d6a1-40a1-87fc-ff15c2cdfd73" />
+<img width="1470" height="956" alt="Screenshot 2026-06-09 at 10 40 52 PM" src="https://github.com/user-attachments/assets/02329646-4f67-46a4-aa8b-8fc461d6218f" />
+
 
 ---
 

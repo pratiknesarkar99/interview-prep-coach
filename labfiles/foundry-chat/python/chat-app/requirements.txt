@@ -2,3 +2,5 @@ python-dotenv
 aiohttp
 azure-identity
 openai
+pypdf
+flask

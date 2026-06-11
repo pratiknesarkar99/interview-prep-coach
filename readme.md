@@ -9,6 +9,10 @@ Projects built during Microsoft AI Skills Fest (June 2026), focused on Azure AI 
 ### Interview Prep Coach
 [`labfiles/foundry-chat/python/chat-app`](./labfiles/foundry-chat/python/chat-app)
 
+<img width="1470" height="956" alt="Screenshot 2026-06-09 at 10 40 52 PM" src="https://github.com/user-attachments/assets/02329646-4f67-46a4-aa8b-8fc461d6218f" />
+<img width="1470" height="956" alt="Screenshot 2026-06-09 at 10 40 21 PM" src="https://github.com/user-attachments/assets/b11632e2-d6a1-40a1-87fc-ff15c2cdfd73" />
+
+
 An AI-powered mock interview coach that conducts realistic 6-turn interviews tailored to a specific job description and resume, then generates a structured debrief with actionable feedback. Built with Azure AI Foundry, OpenAI Responses API, Flask, and Docker.
 
 Key engineering decisions: token-efficient context compression, stateful conversation via `previous_response_id`, streaming responses, and PDF resume parsing.
